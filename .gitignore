@@ -1,0 +1,39 @@
+# Operating System files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Build artifacts
+*.log
+*.tmp
+*.bak
+*.obj
+*.exe
+*.dll
+*.so
+*.o
+*.pyc
+*.class
+
+# Dependency directories
+node_modules/
+vendor/
+target/
+build/
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+*.iws
+*.ipr
+
+# Configuration files
+*.env
+.env.local
+config.local.php
+
+# Other common ignore patterns
+temp/
+logs/
+dist/
